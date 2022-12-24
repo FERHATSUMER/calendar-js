@@ -13,7 +13,7 @@ const months=[
     "January",
     "February",
     "March",
-    "April",
+    "April", 
     "June",
     "July",
     "August",
@@ -23,7 +23,7 @@ const months=[
     "December",
 ];
 
-// monthEl .innerHTML=months.forEach((month)=>`${month}` );
+monthEl .innerHTML=months[monthInx];
 fullDate .innerHTML=new Date().toDateString();
 
 let days ="";
