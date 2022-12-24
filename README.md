@@ -1,2 +1,0 @@
-# calendar-js
-calendar-js
